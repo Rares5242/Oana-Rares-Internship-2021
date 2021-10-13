@@ -1,0 +1,37 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Ex._2_SocialMediaLikeSystem
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine(Kata.Likes(new string[0]));
+            Console.WriteLine(Kata.Likes(new string[] { "Peter" }));
+            Console.WriteLine(Kata.Likes(new string[] { "Jacob", "Alex" }));
+            Console.WriteLine(Kata.Likes(new string[] { "Max", "John", "Mark" }));
+            Console.WriteLine(Kata.Likes(new string[] { "Alex", "Jacob", "Mark", "Max" }));
+        }
+    }
+
+    public static class Kata
+    {
+        public static string Likes(string[] name)
+        {
+            switch (name.Count())
+            {
+                case 0: return "No one likes this";
+                case 1: return name[0] + " likes this";
+                case 2: return name[0] + " and " + name[1] + " like this";
+                case 3: return name[0] + ", " + name[1] + " and " + name[2] + " like this";
+                default: return name[0] + ", " + name[1] + " and " + (name.Count() - 2).ToString() + " others like this";
+            }
+
+            throw new NotImplementedException();
+        }
+    }
+}
