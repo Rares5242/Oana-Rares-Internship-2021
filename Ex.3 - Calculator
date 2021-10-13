@@ -1,0 +1,27 @@
+using System;
+using System.Collections.Generic;
+using System.Data;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Ex._3_Calculator
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine(Evaluator.Evaluate("2 / 2 + 3 * 4 - 6"));
+        }
+    }
+
+    public class Evaluator
+    {
+        public static double Evaluate(string expression)
+        {
+            DataTable dt = new DataTable();
+            double result = (double)dt.Compute(expression, string.Empty);
+            return result;
+        }
+    }
+}
