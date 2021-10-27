@@ -1,0 +1,32 @@
+C:\Users\Administrator\Desktop\Nemetos Internship\PaperPlanes\PaperPlanes\bin\Debug\net5.0\PaperPlanes.exe
+C:\Users\Administrator\Desktop\Nemetos Internship\PaperPlanes\PaperPlanes\bin\Debug\net5.0\PaperPlanes.deps.json
+C:\Users\Administrator\Desktop\Nemetos Internship\PaperPlanes\PaperPlanes\bin\Debug\net5.0\PaperPlanes.runtimeconfig.json
+C:\Users\Administrator\Desktop\Nemetos Internship\PaperPlanes\PaperPlanes\bin\Debug\net5.0\PaperPlanes.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\Nemetos Internship\PaperPlanes\PaperPlanes\bin\Debug\net5.0\PaperPlanes.dll
+C:\Users\Administrator\Desktop\Nemetos Internship\PaperPlanes\PaperPlanes\bin\Debug\net5.0\ref\PaperPlanes.dll
+C:\Users\Administrator\Desktop\Nemetos Internship\PaperPlanes\PaperPlanes\bin\Debug\net5.0\PaperPlanes.pdb
+C:\Users\Administrator\Desktop\Nemetos Internship\PaperPlanes\PaperPlanes\obj\Debug\net5.0\PaperPlanes.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Nemetos Internship\PaperPlanes\PaperPlanes\obj\Debug\net5.0\PaperPlanes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Nemetos Internship\PaperPlanes\PaperPlanes\obj\Debug\net5.0\PaperPlanes.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Nemetos Internship\PaperPlanes\PaperPlanes\obj\Debug\net5.0\PaperPlanes.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Nemetos Internship\PaperPlanes\PaperPlanes\obj\Debug\net5.0\PaperPlanes.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Nemetos Internship\PaperPlanes\PaperPlanes\obj\Debug\net5.0\PaperPlanes.dll
+C:\Users\Administrator\Desktop\Nemetos Internship\PaperPlanes\PaperPlanes\obj\Debug\net5.0\ref\PaperPlanes.dll
+C:\Users\Administrator\Desktop\Nemetos Internship\PaperPlanes\PaperPlanes\obj\Debug\net5.0\PaperPlanes.pdb
+C:\Users\Administrator\Desktop\Nemetos Internship\PaperPlanes\PaperPlanes\obj\Debug\net5.0\PaperPlanes.genruntimeconfig.cache
+C:\Users\Rares\Documents\Internship\PaperPlanes\obj\Debug\net5.0\PaperPlanes.pdb
+C:\Users\Rares\Documents\Internship\PaperPlanes\bin\Debug\net5.0\PaperPlanes.exe
+C:\Users\Rares\Documents\Internship\PaperPlanes\bin\Debug\net5.0\PaperPlanes.deps.json
+C:\Users\Rares\Documents\Internship\PaperPlanes\bin\Debug\net5.0\PaperPlanes.runtimeconfig.json
+C:\Users\Rares\Documents\Internship\PaperPlanes\bin\Debug\net5.0\PaperPlanes.runtimeconfig.dev.json
+C:\Users\Rares\Documents\Internship\PaperPlanes\bin\Debug\net5.0\PaperPlanes.dll
+C:\Users\Rares\Documents\Internship\PaperPlanes\bin\Debug\net5.0\ref\PaperPlanes.dll
+C:\Users\Rares\Documents\Internship\PaperPlanes\bin\Debug\net5.0\PaperPlanes.pdb
+C:\Users\Rares\Documents\Internship\PaperPlanes\obj\Debug\net5.0\PaperPlanes.csproj.AssemblyReference.cache
+C:\Users\Rares\Documents\Internship\PaperPlanes\obj\Debug\net5.0\PaperPlanes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rares\Documents\Internship\PaperPlanes\obj\Debug\net5.0\PaperPlanes.AssemblyInfoInputs.cache
+C:\Users\Rares\Documents\Internship\PaperPlanes\obj\Debug\net5.0\PaperPlanes.AssemblyInfo.cs
+C:\Users\Rares\Documents\Internship\PaperPlanes\obj\Debug\net5.0\PaperPlanes.csproj.CoreCompileInputs.cache
+C:\Users\Rares\Documents\Internship\PaperPlanes\obj\Debug\net5.0\PaperPlanes.dll
+C:\Users\Rares\Documents\Internship\PaperPlanes\obj\Debug\net5.0\ref\PaperPlanes.dll
+C:\Users\Rares\Documents\Internship\PaperPlanes\obj\Debug\net5.0\PaperPlanes.genruntimeconfig.cache
