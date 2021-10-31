@@ -18,6 +18,11 @@ namespace Request_Life_Cycle
                 url: "{controller}/{action}/{id}",
                 defaults: new { controller = "Home", action = "Index", id = UrlParameter.Optional }
             );
+            //Route myRoute = new Route("{controller}/{action}/{id}",
+            //    new RouteValueDictionary { { "controller", "Home" }, { "action", "Index" }, { "id", "1" } },
+            //    new McvRouteHandler();   // - type or namespace not found
+            //routes.Add(myRoute);
+
         }
     }
 }
