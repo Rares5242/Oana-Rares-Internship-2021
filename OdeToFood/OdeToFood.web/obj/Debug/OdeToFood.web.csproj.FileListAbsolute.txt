@@ -98,4 +98,13 @@ D:\Internship Projects\Oana-Rares-Internship-2021\OdeToFood\OdeToFood.web\bin\Sy
 D:\Internship Projects\Oana-Rares-Internship-2021\OdeToFood\OdeToFood.web\bin\System.Numerics.Vectors.xml
 D:\Internship Projects\Oana-Rares-Internship-2021\OdeToFood\OdeToFood.web\bin\System.Runtime.CompilerServices.Unsafe.xml
 D:\Internship Projects\Oana-Rares-Internship-2021\OdeToFood\OdeToFood.web\bin\System.Threading.Tasks.Extensions.xml
+D:\Internship Projects\Oana-Rares-Internship-2021\OdeToFood\OdeToFood.web\bin\System.Net.Http.Formatting.dll
+D:\Internship Projects\Oana-Rares-Internship-2021\OdeToFood\OdeToFood.web\bin\System.Web.Http.dll
+D:\Internship Projects\Oana-Rares-Internship-2021\OdeToFood\OdeToFood.web\bin\System.Web.Http.WebHost.dll
+D:\Internship Projects\Oana-Rares-Internship-2021\OdeToFood\OdeToFood.web\bin\System.Net.Http.Formatting.xml
+D:\Internship Projects\Oana-Rares-Internship-2021\OdeToFood\OdeToFood.web\bin\System.Web.Http.xml
+D:\Internship Projects\Oana-Rares-Internship-2021\OdeToFood\OdeToFood.web\bin\System.Web.Http.WebHost.xml
+D:\Internship Projects\Oana-Rares-Internship-2021\OdeToFood\OdeToFood.web\bin\Autofac.Integration.WebApi.dll
+D:\Internship Projects\Oana-Rares-Internship-2021\OdeToFood\OdeToFood.web\bin\Autofac.Integration.WebApi.pdb
+D:\Internship Projects\Oana-Rares-Internship-2021\OdeToFood\OdeToFood.web\bin\Autofac.Integration.WebApi.xml
 D:\Internship Projects\Oana-Rares-Internship-2021\OdeToFood\OdeToFood.web\obj\Debug\OdeToFood.web.csproj.CopyComplete
