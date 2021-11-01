@@ -4,3 +4,8 @@ D:\Internship Projects\Oana-Rares-Internship-2021\OdeToFood\OdeToFood.Data\obj\D
 D:\Internship Projects\Oana-Rares-Internship-2021\OdeToFood\OdeToFood.Data\obj\Debug\OdeToFood.Data.csproj.CoreCompileInputs.cache
 D:\Internship Projects\Oana-Rares-Internship-2021\OdeToFood\OdeToFood.Data\obj\Debug\OdeToFood.Data.dll
 D:\Internship Projects\Oana-Rares-Internship-2021\OdeToFood\OdeToFood.Data\obj\Debug\OdeToFood.Data.pdb
+D:\Internship Projects\Oana-Rares-Internship-2021\OdeToFood\OdeToFood.Data\bin\Debug\OdeToFood.Data.dll.config
+D:\Internship Projects\Oana-Rares-Internship-2021\OdeToFood\OdeToFood.Data\bin\Debug\EntityFramework.dll
+D:\Internship Projects\Oana-Rares-Internship-2021\OdeToFood\OdeToFood.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\Internship Projects\Oana-Rares-Internship-2021\OdeToFood\OdeToFood.Data\bin\Debug\EntityFramework.xml
+D:\Internship Projects\Oana-Rares-Internship-2021\OdeToFood\OdeToFood.Data\bin\Debug\EntityFramework.SqlServer.xml

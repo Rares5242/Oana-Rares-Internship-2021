@@ -107,4 +107,8 @@ D:\Internship Projects\Oana-Rares-Internship-2021\OdeToFood\OdeToFood.web\bin\Sy
 D:\Internship Projects\Oana-Rares-Internship-2021\OdeToFood\OdeToFood.web\bin\Autofac.Integration.WebApi.dll
 D:\Internship Projects\Oana-Rares-Internship-2021\OdeToFood\OdeToFood.web\bin\Autofac.Integration.WebApi.pdb
 D:\Internship Projects\Oana-Rares-Internship-2021\OdeToFood\OdeToFood.web\bin\Autofac.Integration.WebApi.xml
-D:\Internship Projects\Oana-Rares-Internship-2021\OdeToFood\OdeToFood.web\obj\Debug\OdeToFood.web.csproj.CopyComplete
+D:\Internship Projects\Oana-Rares-Internship-2021\OdeToFood\OdeToFood.web\bin\EntityFramework.dll
+D:\Internship Projects\Oana-Rares-Internship-2021\OdeToFood\OdeToFood.web\bin\EntityFramework.SqlServer.dll
+D:\Internship Projects\Oana-Rares-Internship-2021\OdeToFood\OdeToFood.web\bin\OdeToFood.Data.dll.config
+D:\Internship Projects\Oana-Rares-Internship-2021\OdeToFood\OdeToFood.web\bin\EntityFramework.xml
+D:\Internship Projects\Oana-Rares-Internship-2021\OdeToFood\OdeToFood.web\bin\EntityFramework.SqlServer.xml
